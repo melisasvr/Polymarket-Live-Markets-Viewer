@@ -1,7 +1,6 @@
 # 🎯 Polymarket Live Markets Viewer
 - A Python terminal tool + live website that fetches and displays real-time prediction market data from [Polymarket](https://polymarket.com) using their free public Gamma API, no API key required.
-
-Prices reflect crowd-sourced probability estimates. A Yes price of `0.72` means the market currently prices a **72% chance** of Yes happening.
+- Prices reflect crowd-sourced probability estimates. A Yes price of `0.72` means the market currently prices a **72% chance** of Yes happening.
 
 ---
 
