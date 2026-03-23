@@ -64,7 +64,7 @@ Sorted by: Volume ↓ — 20 markets
 - Days remaining badge per card (green/yellow/red urgency)
 - CSV export directly from the browser
 - Refresh button
-- Zero dependencies — pure HTML, CSS, JavaScript
+- Zero dependencies pure HTML, CSS, JavaScript
 - Deployable to GitHub Pages in one step
 
 ---
